@@ -144,31 +144,3 @@ if st.button("🔍 포켓몬 추천받기!"):
 # -----------------------------
 st.markdown("---")
 st.caption("🫶 Made with Streamlit & Pokémon Love")
-```
-
----
-
-# 🚀 Streamlit Cloud 배포 방법
-
-1. GitHub에 `app.py` 업로드
-2. `requirements.txt` 파일 생성
-3. 아래 내용 작성
-
-```txt
-streamlit
-```
-
-4. Streamlit Cloud 접속
-5. GitHub 저장소 연결 후 Deploy 클릭!
-
----
-
-# 💡 추가로 넣으면 재밌는 기능 아이디어
-
-* 🎵 포켓몬 브금 자동 재생
-* 🖼️ 포켓몬 이미지 표시
-* 💬 "트레이너 한마디" 랜덤 출력
-* 🌈 결과 배경색 MBTI마다 다르게 변경
-* 📸 결과 캡처 버튼 만들기
-* 🏆 친구들과 결과 공유 기능
-
