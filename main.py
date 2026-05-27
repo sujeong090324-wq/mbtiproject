@@ -302,9 +302,5 @@ if st.button("🔍 포켓몬 추천받기!"):
 
     st.info(lucky_message)
 
-# -----------------------------
-# 하단 꾸미기
-# -----------------------------
-st.markdown("---")
-st.caption("🫶 Made with Streamlit & Pokémon Love")
+
 
