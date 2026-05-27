@@ -1,8 +1,3 @@
-# 🧩 MBTI 포켓몬 추천 웹앱 (Streamlit)
-
-아래 코드를 `app.py`로 저장한 뒤, Streamlit Cloud에 업로드하면 돼!
-
-```python
 import streamlit as st
 import random
 
